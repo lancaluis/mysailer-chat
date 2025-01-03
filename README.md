@@ -1,7 +1,7 @@
 
-# My Sailor Chat ⛵
+# My Sailer Chat ⛵
 
-My Sailor Chat is a real-time chat application designed to be simple, efficient, and functional. This project consumes a Python API that utilizes REST and WebSocket for communication between the client and server. With a lightweight design and a smooth experience, it was built using modern technologies that were carefully chosen to ensure robustness and code readability.
+My Sailer Chat is a real-time chat application designed to be simple, efficient, and functional. This project consumes a Python API that utilizes REST and WebSocket for communication between the client and server. With a lightweight design and a smooth experience, it was built using modern technologies that were carefully chosen to ensure robustness and code readability.
 
 ## 🛠️ How to Run the Project?
 
